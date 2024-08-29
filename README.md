@@ -29,7 +29,7 @@ To run this project locally, follow these steps:
 2. **Install dependencies:**
     ```bash
     npm install
-    
-3.**Run the Development Server:**
+
+3. **Run the Development Server:**
    ```bash
     npm install
