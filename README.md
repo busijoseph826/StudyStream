@@ -24,9 +24,12 @@ To run this project locally, follow these steps:
 
    ```bash
    git clone https://github.com/busijoseph826/StudyStream.git
-   cd course-management-app
+   cd StudyStream
 
 2. **Install dependencies:**
+    ```bash
     npm install
+
 3.**Run the development server:**
+    ```bash
     npm run dev
